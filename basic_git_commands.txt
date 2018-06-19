@@ -17,6 +17,8 @@ type:-
 (now it will show what are the changes is done by you in local machine repository comapre to server repository)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+
+
 now to add changes files or folders in your server repository type:-
 
 1.--->git add . ('.' means it will add all change files and folder in your current directory).
@@ -43,3 +45,9 @@ Use git stash when you want to record the current state of the working directory
 (it will store in a stack)
 (if you want pop type:-)
 --->git stash pop
+
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+To update remote repository / to get it know how many braches added later through to the other contributors
+ ---> git remote update 
