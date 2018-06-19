@@ -50,9 +50,5 @@ Use git stash when you want to record the current state of the working directory
 -------------------------------------------------------------------------
 
 To update remote repository / to get it know how many braches added later through to the other contributors
-<<<<<<< HEAD
  ---> git remote update 
  --------------------------------------
-=======
- ---> git remote update 
->>>>>>> b2d91180ef8fec2108349f96ea75240eac149355
