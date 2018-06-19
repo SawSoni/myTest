@@ -53,6 +53,4 @@ To update remote repository / to get it know how many braches added later throug
 <<<<<<< HEAD
  ---> git remote update 
  --------------------------------------
-=======
- ---> git remote update 
->>>>>>> b2d91180ef8fec2108349f96ea75240eac149355
+
