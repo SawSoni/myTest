@@ -1,1 +1,6 @@
-y7y7y7y
+
+function print(){
+	console.log('Hello world');
+}
+
+print();
