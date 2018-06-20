@@ -4,3 +4,9 @@ function print(){
 }
 
 print();
+
+function hello(){
+	console.log('Hello soni');
+}
+
+hello();
