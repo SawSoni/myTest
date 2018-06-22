@@ -2,10 +2,30 @@
 	box-sizing: border-box;
 }
 
-p {
-	color: #ABD;
+.wrapper {
+	width: 80%;
+	margin: 50px auto;
+	background-color: #CCC;
+	padding: 10px;
+
 }
 
-h2 {
-	color:blue;
+h1 {
+	text-decoration: underline;
+}
+
+.resultDiv {
+	margin-top: 20px;
+	width: 30%;
+	border:1px solid #000;
+	padding: 10px;
+}
+
+.text {
+	margin-right: 10px;
+}
+
+input[type=number],input[type=button]{
+	border:1px solid #000;
+	padding: 10px;
 }
