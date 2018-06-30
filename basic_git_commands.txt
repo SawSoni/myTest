@@ -59,4 +59,9 @@ if something deleted locally and if you didn't commited that file then you can r
 ---> git checkout -- <file_name>  or  ---> git checkout . ("." for all file)
 
 --------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+You can get a list of all the deleted files in the working tree using the command below.
 
+---> git ls-files --deleted
+
+-------------------------------------------------------------------------------------------
