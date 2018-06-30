@@ -52,5 +52,11 @@ Use git stash when you want to record the current state of the working directory
 To update remote repository / to get it know how many braches added later through to the other contributors
 <<<<<<< HEAD
  ---> git remote update 
- --------------------------------------
+ ----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+if something deleted locally and if you didn't commited that file then you can recover that file by command:-
+
+---> git checkout -- <file_name>  or  ---> git checkout . ("." for all file)
+
+--------------------------------------------------------------------------------------------------------------
 
