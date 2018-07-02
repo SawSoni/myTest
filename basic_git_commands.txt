@@ -54,3 +54,7 @@ To update remote repository / to get it know how many braches added later throug
  ---> git remote update 
  --------------------------------------
 
+I made a new branch for my code like a month ago, I created lerningDirective branch from csschange branch
+now i worked on lerningDirective ,i donot want to merge in master but i want to update my csschange branch 
+>>>>>>git checkout csschange
+git merge lerningDirective
