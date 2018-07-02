@@ -52,7 +52,13 @@ Use git stash when you want to record the current state of the working directory
 To update remote repository / to get it know how many braches added later through to the other contributors
 <<<<<<< HEAD
  ---> git remote update 
- --------------------------------------
+ ----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+if something deleted locally and if you didn't commited that file then you can recover that file by command:-
+
+---> git checkout -- <file_name>  or  ---> git checkout . ("." for all file)
+
+--------------------------------------------------------------------------------------------------------------
 
 I made a new branch for my code like a month ago, I created lerningDirective branch from csschange branch
 now i worked on lerningDirective ,i donot want to merge in master but i want to update my csschange branch 
